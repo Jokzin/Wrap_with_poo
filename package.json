@@ -1,0 +1,14 @@
+{
+  "name": "wrap-with-poo",
+  "version": "1.0.0",
+  "description": "Wrap your text with poo emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poo"
+  ],
+  "author": "Halfkan Julien",
+  "license": "MIT"
+}
